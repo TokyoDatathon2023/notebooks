@@ -1,1 +1,1 @@
-# Please go to "docs" for reference in Japanese.
+# Please go to "docs" for references written in Japanese for beginners.
